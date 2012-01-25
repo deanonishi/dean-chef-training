@@ -26,7 +26,7 @@ package "tmux"
 
 if node[:platform] == 'centos'
   log "This is a CentOS box"
-  elsif node [:platform] == 'ubuntu'
+elsif node[:platform] == 'ubuntu'
   log "This is an ubuntu box"
 end
 
