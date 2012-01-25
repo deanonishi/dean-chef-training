@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "rs_utils": ">= 0.0.0"
+  },
+  "name": "deanonishi",
+  "maintainer_email": "dean@rightscale.com",
+  "attributes": {
+  },
+  "license": "All rights reserved",
+  "suggestions": {
+  },
+  "platforms": {
+    "ubuntu": ">= 0.0.0"
+  },
+  "maintainer": "RIGHTSCALE",
+  "long_description": "= DESCRIPTION:\n\n= REQUIREMENTS:\n\n= ATTRIBUTES:\n\n= USAGE:\n\n",
+  "version": "0.0.1",
+  "recommendations": {
+  },
+  "recipes": {
+    "deanonishi::setup_deanonishi": "This script does schtuff"
+  },
+  "groupings": {
+  },
+  "conflicting": {
+  },
+  "replacing": {
+  },
+  "description": "Installs/Configures deanonishi",
+  "providing": {
+  }
+}
