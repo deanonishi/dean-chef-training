@@ -8,3 +8,12 @@
 #
 
 log "Hello McFly:!"
+
+directory "/tmp/lakers" do
+  owner "root"
+  group "root"
+  mode 0755
+  path "/tmp/lakers"
+  action :create
+end
+
